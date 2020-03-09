@@ -2,7 +2,7 @@
 
 The private ddos tool in NodeJs coded by 0xpeer2peer (HEX Flood | Layer7).
 
-  Debian: <p>apt-get install nodejs -y</p>
-  Centos / REHL: <p>yum install nodejs -y</p>
+  Debian: <b>apt-get install nodejs -y</b>
+  Centos / REHL: <b>yum install nodejs -y</b>
 
 Command: node 80-HTTP-BYPASS.js http://site.com/ time
